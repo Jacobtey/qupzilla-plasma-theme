@@ -1,0 +1,19 @@
+#navigation-button-next
+{
+		qproperty-themeIcon: "go-previous";
+}
+
+#navigation-button-back
+{
+		qproperty-themeIcon: "go-next";
+}
+
+#tabbar-button-right
+{
+    qproperty-themeIcon: "go-previous";
+}
+
+#tabbar-button-left
+{
+    qproperty-themeIcon: "go-previous";
+}
